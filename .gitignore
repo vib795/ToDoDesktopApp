@@ -1,0 +1,7 @@
+.DS_Store
+build
+dist
+setup.py
+todo.db
+todo_app.spec
+venv
