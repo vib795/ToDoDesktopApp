@@ -12,8 +12,8 @@ Before installing the To-Do List application, ensure you have Python installed o
 1. **Clone the Repository (Optional)**:
    If the application is hosted on a version control system like GitHub, you can clone it using:
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/vib795/ToDoDesktopApp.git
+cd ToDoDesktopApp
 ```
 
 2. **Install Dependencies**:
@@ -62,7 +62,7 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **Customization Tips:**
-- Repository URL: Replace https://github.com/yourusername/todo-app.git with the actual URL of your repository.
+- Repository URL: Replace https://github.com/vib795/ToDoDesktopApp.git with the actual URL of your repository.
 - Additional Dependencies: If your application requires more dependencies, list them in the Installation section.
 - Screenshots: Adding screenshots of your application in action can be very helpful for users.
 - Contact Information: If you're open to being contacted for support or contributions, consider adding your contact information.
